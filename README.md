@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satrox28
 - 👀 I’m interested in Kubernetes, Cloud Native
-- 🌱 I’m currently learning ...Kubernetes
+- 🌱 I’m currently learning ...Kubernetes, React and Typescript.
 - 💞️ I’m looking to collaborate on ... Kubernetes related platform
 - 📫 How to reach me ...
 
